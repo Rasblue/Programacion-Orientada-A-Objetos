@@ -6,7 +6,8 @@ Lo primero que tenemos que hacer es bajar el archivo de instalacion del siguient
 Es importante bajar el SDK, ya que **vamos a programar**.
 
 La pagina se ve asi:
-[IMG](./IMG/pagina1)
+[IMG](./IMG/pagina1.png)
+
 ## Instalación y configuración de Visual Studio Code para C#.
 
 ## Instalación de git. conectado a tu cuenta de GitHub y VSC.
